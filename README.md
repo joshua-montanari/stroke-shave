@@ -1,2 +1,2 @@
 # stroke-shave
-golf^(score)
+-golf^(score)
